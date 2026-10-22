@@ -1,0 +1,8 @@
+loan_id,borrower_name,email,phone,amount_due,due_date
+L1001,Aarav Sharma,aarav.sharma@example.com,+919800000001,12500.00,2026-10-25
+L1002,Priya Verma,priya.verma@example.com,+919800000002,8000.00,2026-10-22
+L1003,Rohan Gupta,rohan.gupta@example.com,+919800000003,15250.50,2026-10-21
+L1004,Neha Singh,neha.singh@example.com,+919800000004,6400.00,2026-10-15
+L1005,Karan Mehta,karan.mehta@example.com,+919800000005,22000.00,2026-11-10
+L1006,Sita Devi,,+919800000006,5000.00,2026-10-24
+L1007,Bad Email Example,not-an-email,+919800000007,3000.00,2026-10-30
